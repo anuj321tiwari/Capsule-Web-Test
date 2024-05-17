@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Gradient{
+    background: rgb(247,247,247);
+background: linear-gradient(90deg, rgba(247,247,247,1) 0%, rgba(255,255,255,1) 52%, rgba(0,212,255,0.4318977591036415) 100%);
+}
+
+.GradientSec {
+    background: rgb(247,247,247);
+background: linear-gradient(90deg, rgba(247,247,247,1) 0%, rgba(255,255,255,1) 52%, rgba(8,146,135,0.5887605042016807) 100%);
+}
